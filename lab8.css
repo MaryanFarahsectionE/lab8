@@ -1,0 +1,19 @@
+/* style.css */
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#data-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd; /* Example styling, customize as needed */
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    #data-container {
+        /* Adjust styles for smaller devices */
+    }
+}
